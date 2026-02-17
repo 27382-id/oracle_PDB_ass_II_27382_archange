@@ -115,18 +115,19 @@ I had issues of slow performance during the installation of OEM.
 oracle_pdb_ass_II_27382_archange/
 │
 ├── README.md
-└── screenshots/
+
 ├── pdb_creation.png
 ├── user_creation.png
 ├── temp_pdb_creation.png
 ├── temp_pdb_deletion.png
 └── oem_dashboard.png
 
+
 ---
 
 ## 8. Submission Information
 
-Repository Link: (Paste your public GitHub URL here)
+Repository Link: https://github.com/27382-id/oracle_PDB_ass_II_27382_archange
 PDB Name Created: ar_pdb_27382
 Issues Encountered: No
 
