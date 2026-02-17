@@ -106,7 +106,7 @@ Screenshot of OEM dashboard included in screenshots/ folder.
 
 ## 6. Challenges Encountered
 
-No major issues were encountered during the completion of this assignment.
+I had issues of slow performance during the installation of OEM.
 
 ---
 
